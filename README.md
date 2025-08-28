@@ -10,6 +10,6 @@ Li, X., K. Liu, and J. Tian (2021), Variability, predictability, and uncertainty
 
 Liu, K., X. Li, and X. Long (2021), Trends in groundwater changes driven by precipitation and anthropogenic activities on the southeast side of the Hu Line, *Environmental Research Letters* 16(9), 094032, <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac1ed8">DOI: 10.1088/1748-9326/ac1ed8</a>.
 
-Li, X., C. Zhang, B. Zhang, and K. Liu (2019), A comparative time series analysis and modeling of aerosols in the contiguous United States and China, *Science of The Total Environment* 690, 799-811, <a href="https://doi.org/10.1016/j.scitotenv.2019.07.072">https://doi.org/10.1016/j.scitotenv.2019.07.072/<a>.
+Li, X., C. Zhang, B. Zhang, and K. Liu (2019), A comparative time series analysis and modeling of aerosols in the contiguous United States and China, *Science of The Total Environment* 690, 799-811, <a href="https://doi.org/10.1016/j.scitotenv.2019.07.072">https://doi.org/10.1016/j.scitotenv.2019.07.072</a>.
 
 Li, X., C. Zhang, W. Li, R. O. Anyah, and J. Tian (2019), Exploring the trend, prediction and driving forces of aerosols using satellite and ground data, and implications for climate change mitigation, *Journal of Cleaner Production* 223, 238-251, <a href="https://doi.org/10.1016/j.jclepro.2019.03.121">https://doi.org/10.1016/j.jclepro.2019.03.121</a>.
